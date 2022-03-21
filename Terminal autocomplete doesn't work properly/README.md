@@ -1,7 +1,5 @@
 # Ubuntu Terminal autocomplete doesn't work properly
 
-URL: https://askubuntu.com/questions/545540/terminal-autocomplete-doesnt-work-properly
-
 `bash-completion` is a set of bash scripts which enables customized completion for specific commands.
 
 This is not just for files and directories, but also e.g. for the commands. So you type partial of commands and by hitting <kbd>Tab</kbd> we get a auto completion of commands. 

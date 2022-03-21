@@ -1,5 +1,6 @@
-# linux
+# LINUX
 
+# Ubuntu Terminal autocomplete doesn't work properly
 
 URL: https://askubuntu.com/questions/545540/terminal-autocomplete-doesnt-work-properly
 

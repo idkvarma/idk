@@ -4,6 +4,8 @@ Ubuntu is configured by default to silently download and install security update
 
 ## How to Install Firefox 83 on Ubuntu / CentOS 8/7 & Fedora 33/32 ##
 
+`apt-get --purge autoremove firefox`
+
 https://yehiweb.com/how-to-install-firefox-83-on-centos-8-7-fedora-33-32/
 
 ## Delete Firefox and all it's data: ## 

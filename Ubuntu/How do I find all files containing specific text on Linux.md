@@ -4,6 +4,10 @@ Do the following:
 grep -rnw '/path/to/somewhere/' -e 'pattern'
 ```
 
+```lang-sh
+EX: grep -rnw /home/idkvarma/path -e TEXTHERE
+```
+
 * `-r` or `-R` is recursive, 
 * `-n` is line number, and 
 * `-w` stands for match the whole word. 

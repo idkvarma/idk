@@ -57,6 +57,10 @@ Important:
 
 - `sudo snap remove firefox`
 
+-----
+**Bypass firefox from update/upgrade`**
+
+- `sudo apt-mark hold firefox`
 
   [1]: https://askubuntu.com/q/1204337/707756
   [2]: https://askubuntu.com/a/1204350/707756

@@ -143,7 +143,7 @@ https://github.com/nocturnalarchives/BlockLists
 ```
 
 # Main List but in that just download and install everything.txt only
+# Example Below.
+`https://raw.githubusercontent.com/blocklistproject/Lists/master/everything.txt`
 
-```
-https://github.com/blocklistproject/Lists
-```
+Main URL: `https://github.com/blocklistproject/Lists` 

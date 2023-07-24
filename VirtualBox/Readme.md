@@ -7,3 +7,7 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
+#### $\textcolor{red}{\textsf{Color didint work .}}$ 
+
+#### $\textcolor{green}{\textsf{Color didint work .}}$ 
+

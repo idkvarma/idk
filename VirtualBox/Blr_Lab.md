@@ -48,5 +48,6 @@ chattr +i /xp
 sudo chmod 777 /dev/ttyUSB0
 ```
 
-Reboot the system and try to add **.vbox** file and start working on it, once all working fine please try to delete the added file, but it wont delete from now.
-
+```diff
+- Note: 
+- Reboot the system and try to add **.vbox** file and start working on it.

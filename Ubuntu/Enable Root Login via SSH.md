@@ -7,3 +7,11 @@
 4. Save and exit the file.
 5. Restart the SSH server:
 `systemctl restart sshd` or `service sshd restart`
+
+
+# or use this single line command for the same requirement
+
+```
+sudo sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config
+```
+Restart the SSH server:```sudo systemctl restart ssh```

@@ -15,4 +15,4 @@ for /f "tokens=2delims=:" %%i in ('netsh wlan show profile name^="%ssid:"=%" key
 
 ```
 
-save file as '''wifi.bat``` and open the terminal and to the path where you saved this file and run ```.\wifi.bat```
+save file as ```wifi.bat``` and open the terminal and to the path where you saved this file and run ```.\wifi.bat```

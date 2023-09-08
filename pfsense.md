@@ -7,3 +7,5 @@
 -> How to configure Dual WAN in pfSense ```https://www.youtube.com/watch?v=oXwExajNyqs```
 
 -> PfSense LAN access Internet ```https://www.youtube.com/watch?v=Bcw3Y2SOtJs```
+
+-> Access Pfsense Server From WAN side IP Address ```https://www.youtube.com/watch?v=Oy5or6sS7s8```

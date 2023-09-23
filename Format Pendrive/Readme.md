@@ -11,7 +11,7 @@ Here's the step-by-step guide to formatting a USB drive in both Linux and Window
 | windows                          | Command                                                         |
 | ------------------------------ | --------------------------------------------------------------- |
 | **Step 1:** Open Command Prompt    | Press **Win + R**, type **cmd**, and press Enter                        |
-| **Step 2:** List Drives            | **wmic diskdrive list brief**                                       |
+| **Step 2:** List Drives            | Type **diskpart** new window will open type **list disk**                                       |
 | **Step 3:** Select the Drive       | **select disk X** (Replace **X** with the appropriate drive number)     |
 | **Step 4:** Clean the Drive        | **clean**                                                           |
 | **Step 5:** Create a New Partition | **create partition primary**                                        |

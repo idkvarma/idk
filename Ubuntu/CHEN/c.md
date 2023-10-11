@@ -1,7 +1,8 @@
 ```
 apt update  
 apt install vim -y 
-apt install g++ -y 
+apt install g++ -y
+apt install ssh -y
 apt install nis -y 
 apt install autofs -y  
 apt install -y openssh-server python3 perl 

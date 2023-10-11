@@ -1,15 +1,15 @@
 ```
-sed -i '3s/^/192.168.2.2     chen.vectorindia.net     chen \n/' /etc/hosts 
+sed -i '3s/^/192.168.2.2     ns1 nis-server vectorindia.net \n/' /etc/hosts 
 apt update 
 apt install nis 
-apt install net-tools 
+apt install net-tools
+apt install ssh -y
 apt install build-essential 
 apt install git -y 
 apt install snap -y 
 sudo snap install notepadqq 
 apt upgrade 
-apt install nfs-kernel-server 
- 
+apt install nfs-kernel-server
 
 sed -i 's/NISSERVER=false/NISSERVER=master/g' /etc/default/nis 
 sed -i 's/NISCLIENT=true/NISCLIENT=false/g' /etc/default/nis 

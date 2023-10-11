@@ -1,5 +1,5 @@
 ```
-sed -i '3s/^/192.168.2.2     ns1 nis-server vectorindia.net \n/' /etc/hosts 
+sed -i '3s/^/192.168.2.2     chen.vectorindia.net    chen \n/' /etc/hosts 
 apt update 
 apt install nis 
 apt install net-tools

@@ -2,6 +2,7 @@
 
 ```
 sudo apt update
+sudo apt install tasksel
 sudo tasksel
 # Select ubuntu desktop
 sudo systemctl set-default graphical.target 

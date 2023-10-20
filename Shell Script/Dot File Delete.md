@@ -1,4 +1,4 @@
-# Below script will delete all .* files in present working directory.
+# Below script will delete all .* files in present working directory. (dotdelete.sh)
 
 ```
 #!/bin/bash

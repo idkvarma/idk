@@ -9,7 +9,7 @@
 
 <img width="1094" alt="1" src="https://github.com/idkvarma/idk/assets/89244462/fd6e44eb-4948-4ef9-9091-846aac8511fc">
 
-# Create a Repo
+# Create a Repo ([Click Here](https://github.com/new))
 
 **`Fill out the details for your repo and be sure to take note your repo name, you’ll need it later in this.`**
 

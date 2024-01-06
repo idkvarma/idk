@@ -3,24 +3,13 @@
 ```
 #!/bin/bash
 
-# Function to delete hidden files and directories recursively
-delete_hidden() {
-    for item in "$1"/.*
-    do
-        if [[ -d "$item" && ! -L "$item" ]] && [[ $item != "$1/." && $item != "$1/.." ]]; then
-            rm -rf "$item"
-        elif [[ -f "$item" && ! -L "$item" ]]; then
-            rm -f "$item"
-        fi
-    done
-}
+echo "Deleting hidden files and directories in the current directory..."
+# Delete hidden files in the current directory
+find . -type f -name ".*" -delete
 
-# Call the function on the current directory
-delete_hidden .
+echo "Deleting hidden directories in the current directory..."
+# Delete hidden directories in the current directory
+find . -type d -name ".*" -exec rm -rf {} +
 
-# Call the function on subdirectories
-for dir in ./*/
-do
-    delete_hidden "$dir"
-done
+echo "Deletion of hidden files and directories complete."
 ```

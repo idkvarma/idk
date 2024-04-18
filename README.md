@@ -15,3 +15,5 @@
 | Ubuntu 18.04 LTS | Bionic Beaver   | 26-Apr-18    | April, 2023 | April, 2028  |
 
 For old releases, see [old-releases.ubuntu.com](http://old-releases.ubuntu.com/releases/).
+
+[The Ubuntu lifecycle and release cadence](https://ubuntu.com/about/release-cycle)

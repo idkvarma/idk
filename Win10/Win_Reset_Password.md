@@ -6,4 +6,9 @@
 
 `Download freeware ISOtoUSB from` [HERE](http://www.isotousb.com/)
 
-YT reference URL [HERE](https://www.youtube.com/watch?v=D9_8vz_lsRM) **>>** IOS to USB **>>** File System **>>** FAT32
+YT reference URL [HERE](https://www.youtube.com/watch?v=D9_8vz_lsRM) **>>** ```IOS to USB``` **>>** ```File System``` **>>** ```FAT32```
+
+
+```Boot``` **>>** ```win start``` **>>** ```All Programs``` **>>** ```Security``` **>>** ```Passwords``` **>>** ```NT Password Edit``` **>>** ```Open``` **>>** ```Username``` **>>** ```Chnage Password```
+
+```Note: C:\WINDOWS\SYSTEM32\CONFIG\SAM```

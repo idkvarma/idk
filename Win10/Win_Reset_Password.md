@@ -6,4 +6,4 @@
 
 `Download freeware ISOtoUSB from` [HERE](http://www.isotousb.com/)
 
-YT reference URL [HERE](https://www.youtube.com/watch?v=D9_8vz_lsRM)
+YT reference URL [HERE](https://www.youtube.com/watch?v=D9_8vz_lsRM) **>>** IOS to USB **>>** File System **>>** FAT32

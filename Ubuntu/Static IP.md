@@ -10,17 +10,14 @@ network:
   version: 2
   renderer: networkd
   ethernets:
-    eth0:
-      dhcp4: false
+    enp5s0:
       addresses:
-        - 192.168.2.3/24
+        - 172.16.2.32/24
+      gateway4: 172.16.2.1
       nameservers:
         addresses:
           - 8.8.8.8
           - 8.8.4.4
-      routes:
-        - to: default
-          via: 192.168.2.1
 
 ```
 

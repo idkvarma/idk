@@ -23,3 +23,10 @@ network:
           via: 192.168.2.1
 
 ```
+
+```
+sudo netplan generate
+
+sudo netplan apply
+
+```

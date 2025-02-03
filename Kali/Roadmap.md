@@ -69,7 +69,7 @@ This plan ensures consistent progress with a mix of theory and hands-on practice
 
 ## **Phase 1: Foundational Certifications (January 27th - May 24th, 2025)**
 
-### **Weeks 1-8: `**
+### **Weeks 1-8: **
 | Week | Key Topics                                  | Daily Plan (4-5 hrs/day)                                              |
 |------|--------------------------------------------|-----------------------------------------------------------------------|
 | 1    | Networking Basics (OSI Model, TCP/IP)      | **2 hrs:** OSI Model, IP addressing basics.<br>**2 hrs:** Study subnetting (practice using tools).<br>**1 hr:** Revise and take short quizzes. |

@@ -1,6 +1,0 @@
-#ping
-ansible -i inventory lanhosts -m ping
-
-#run commands
-ansible -u root -i inventory -m raw -a 'lsb_release -a' lanhosts
-

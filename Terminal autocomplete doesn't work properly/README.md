@@ -17,15 +17,10 @@ And some times it works if we re-installed it by the follwing command:
 
 Open your `gedit ~/.bashrc` and if these content doesn't exist there, add them at the end of it and save it.
 
-<!-- language: bash -->
-
-    # enable bash completion in interactive shells
-    if ! shopt -oq posix; then
-      if [ -f /usr/share/bash-completion/bash_completion ]; then
-        . /usr/share/bash-completion/bash_completion
-      elif [ -f /etc/bash_completion ]; then
-        . /etc/bash_completion
-      fi
-    fi
-
+```
+# enable bash completion in interactive shells
+if [ -f /etc/bash_completion ]; then
+    . /etc/bash_completion
+fi
+```
 **Important:** After changing the file you need to source your ` ~/.bashrc` with `source ~/.bashrc` or reopen your Terminal. It should be fixed now.
